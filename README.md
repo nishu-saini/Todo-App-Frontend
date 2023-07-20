@@ -6,7 +6,7 @@
 
 ## Check Live Website:
 
-[https://todo-app-xi-teal.vercel.app](https://todo-app-xi-teal.vercel.app/profile)
+[https://todo-app-xi-teal.vercel.app](https://todo-app-xi-teal.vercel.app)
 
 ## Backend API used:
 
